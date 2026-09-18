@@ -1,0 +1,9 @@
+{
+  "name": "devops-lab2",
+  "version": "1.0.0",
+  "description": "DevOps and Kubernetes Lab 2",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  }
+}
